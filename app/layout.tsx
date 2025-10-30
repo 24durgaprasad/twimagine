@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "PostMate",
+  title: "twimagine",
   description: "makes your outline to a reliable x post",
 };
 
